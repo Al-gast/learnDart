@@ -20,4 +20,5 @@ void main() {
   print('antennaDiameter ${antennaDiameter}');
   print('flybyObjects ${flybyObjects}');
   print('image ${image}');
+  print(isLoggedIn);
 }

@@ -3,6 +3,8 @@ void main() {
   int b = 10;
   int c = a + b;
 
+  print(c);
+
   // Arithmetic Operator
 
   // addition
@@ -53,7 +55,7 @@ void main() {
   bool y = true;
 
   // && -> AND
-  print(x && y);
+  print(x & y);
 
   // || -> OR
   print(x || y);
